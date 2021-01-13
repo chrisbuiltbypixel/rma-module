@@ -1,0 +1,13 @@
+{
+    "name": "RMA",
+    "alias": "rma",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RMA\\Providers\\RMAServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

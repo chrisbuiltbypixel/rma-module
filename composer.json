@@ -1,0 +1,24 @@
+{
+    "name": "builtbypixel/rma-module",
+    "description": "Returns module, return is a protected word, hence RMA",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Chris Mills",
+            "email": "chris@builtbypixel.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\RMA\\": ""
+        }
+    }
+}
